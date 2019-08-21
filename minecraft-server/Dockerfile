@@ -1,4 +1,4 @@
-FROM openjdk:8u212-jre-alpine
+FROM azul/zulu-openjdk-alpine:11.0.4-jre
 
 LABEL maintainer "itzg"
 
